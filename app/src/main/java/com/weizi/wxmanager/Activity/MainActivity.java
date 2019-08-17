@@ -25,6 +25,7 @@ public class MainActivity   extends BaseActivity {
         images.add("https://img.tukuppt.com/bg_grid/00/03/52/NArgrNOIux.jpg!/fh/350");
         titles.add("a");
         titles.add("b");
+        titles.add("b");
         titles.add("c");
         initBanner(images,titles);
     }
